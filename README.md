@@ -1,5 +1,5 @@
 # Coursework Quality and Software Testing in Java
-<i> Cybernetics, Statistics and Computer Science </i>
+<i> Cybernetics, Statistics and Computer Science, 3rd Year </i>
 
 <b>Requirements</b>
 - Clean Code Principles
